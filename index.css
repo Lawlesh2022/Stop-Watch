@@ -1,0 +1,23 @@
+body{
+    background-color:darkcyan;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 100px;
+    color: blue;
+}
+.container{
+  background-color: violet;
+  padding: 30px;
+  border: 5px solid blue;
+  border-radius: 20px;
+
+}
+button{
+    background-color: lawngreen;
+    border: 2px solid blue;
+    border-radius: 5px;    
+    color: blue;
+    cursor: pointer;
+    font-size: 50px;
+}
